@@ -43,8 +43,8 @@ Create a report that allows end users to easily find answers to the following qu
 
 ## Key Insight:
 
-💡 Top Games by Year: Unveil the most popular games each year and the developers who made them stand out.
-💡 Highest Rated Developer: Discover the developer who consistently delivered top-rated games.
-💡 Top Earning Developers: Learn who the top 6 earning developers are and which game genres led the market.
-💡 Trends Over Time: Dive into the trends in game ratings, pricing, and genre popularity over the years.
-💡 Correlation Analysis: Examine the relationship between game size, genre, and price to optimize development strategies.
+- 💡 Top Games by Year: Unveil the most popular games each year and the developers who made them stand out.
+- 💡 Highest Rated Developer: Discover the developer who consistently delivered top-rated games.
+- 💡 Top Earning Developers: Learn who the top 6 earning developers are and which game genres led the market.
+- 💡 Trends Over Time: Dive into the trends in game ratings, pricing, and genre popularity over the years.
+- 💡 Correlation Analysis: Examine the relationship between game size, genre, and price to optimize development strategies.
